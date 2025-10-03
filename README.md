@@ -13,7 +13,8 @@ The analysis is based on the Udemy Courses Dataset sourced from Kaggle.
 **Data Source**: udemy_courses.csv
 
 Columns: The dataset includes columns such as course_id, course_title, is_paid, price, num_subscribers, num_reviews, num_lectures, level, content_duration, published_timestamp, and subject.
-![Uploading Screenshot 2025-10-03 115015Udemy.png…]()
+<img width="808" height="469" alt="image" src="https://github.com/user-attachments/assets/b7a7daf5-69a5-4047-ada2-5764dc7a9e83" />
+
 
 **Methodology**
 The analysis was conducted in a Jupyter Notebook using Python. Key steps included data loading and cleaning, exploratory data analysis (EDA) with statistical summaries and visualizations, data visualization using libraries like Matplotlib and Seaborn, and generating insights to answer the project's questions.
