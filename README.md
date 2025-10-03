@@ -14,15 +14,7 @@ The analysis seeks to answer key business questions such as:
 
 * **Source**: Udemy Courses Dataset (sourced from Kaggle)
 * **File**: `udemy_courses.csv`
-* **Columns**: `course_id`
-  * `course_title 
-  * `price` 
-  * `num_subscribers` 
-  * `num_reviews`
-  * `num_lectures`
-  * `level
-  * `content_duration` 
-  * `published_timestamp` `subject` 
+* **Columns**: course_id, course_title, is_paid, price, num_subscribers, num_reviews, num_lectures, level, content_duration, published_timestamp, and subject.
 
 ### 🛠️ Methodology
 
