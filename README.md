@@ -1,4 +1,4 @@
-**Project overview**
+📜 Project Overview
 
 This project is an exploratory data analysis (EDA) of a dataset containing information on Udemy courses. The main goal is to uncover trends, patterns, and insights related to course prices, popularity, content, and duration. The analysis answers key business questions such as:
 -Diffrent subjects for which Udemy is offering courses
